@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:anstariq333@gmail.com">📧 Contact Me</a> •
   <a href="https://github.com/anstariq">GitHub</a> •
-  <a href="https://www.linkedin.com">LinkedIn</a> <!-- replace with real link -->
+  <a href="https://www.linkedin.com/in/ans-tariq03/">LinkedIn</a> 
 </p>
 
 ---
@@ -49,15 +49,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anstariq&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anstariq&layout=compact&theme=radical" />
-</p>
 
 ---
 
